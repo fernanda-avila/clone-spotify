@@ -97,7 +97,8 @@ h1 {
 }
 
 .library .library__content .fa-plus {
-    margin: 24px 10px
+    margin: 24px 10px;
+    cursor: pointer;
 }
 
 .section-playlist {
@@ -153,7 +154,7 @@ h1 {
     margin-top: 12px;
     border: 0;
     width: 113px;
-    
+    cursor: pointer;
 }
 
 .sidebar .cookies {
