@@ -1,6 +1,6 @@
 # 🤿 Spotify Clone - Projeto Imersão Front-End
 
-Projeto de clonagem da interface do Spotify feita durante a Imersão Front-End da Alura
+Projeto de clonagem da interface do Spotify.
 
 ## 🔧	 Construção:
 
